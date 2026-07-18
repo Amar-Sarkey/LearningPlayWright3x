@@ -5,5 +5,5 @@ console.log(typeof 123) ;
 console.log(typeof 3.456) ;
 console.log(typeof true);
 console.log(typeof undefined);
-console.log(typeof null);
+console.log(typeof null);2
 console.log(typeof []);
